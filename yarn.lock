@@ -16157,6 +16157,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"loadash@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "loadash@npm:1.0.0"
+  checksum: 3303320c0d0e9361f347c464559bbb7105692d4b961e9d4039960dbe5bfbd0f584de8362aa32d76ebbd52a9624c00341cb98311b652dbe1b811adc3158f17c17
+  languageName: node
+  linkType: hard
+
 "loader-runner@npm:^2.4.0":
   version: 2.4.0
   resolution: "loader-runner@npm:2.4.0"
@@ -23381,6 +23388,7 @@ __metadata:
     "@redwoodjs/forms": 3.8.0
     "@redwoodjs/router": 3.8.0
     "@redwoodjs/web": 3.8.0
+    loadash: ^1.0.0
     prop-types: 15.8.1
     react: 17.0.2
     react-dom: 17.0.2

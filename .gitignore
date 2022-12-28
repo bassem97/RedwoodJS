@@ -1,4 +1,6 @@
 .idea
+.vscode
+yarn.lock
 .DS_Store
 .env
 .netlify
